@@ -12,14 +12,10 @@
 #define MOODS_TOTAL 1
 #define BUTTHURT_MAX 14
 
-static const Icon* const portrait_happy[7] = {
+static const Icon* const portrait_happy[3] = {
     &I_passport_happy1_46x49,
     &I_passport_happy2_46x49,
-    &I_passport_happy3_46x49,
-    &I_G0ku,
-    &I_g0ku_1,
-    &I_g0ku_2,
-    &I_g0ku_3};
+    &I_passport_happy3_46x49};
 // static const Icon* const portrait_ok[MOODS_TOTAL] = {
 // &I_passport_okay1_46x49,
 // &I_passport_okay2_46x49,
@@ -33,8 +29,8 @@ static const Icon* const portrait_happy[7] = {
 static const Icon* const* portraits[MOODS_TOTAL] = {portrait_happy};
 
 static const char* const moods[16] = {
-    "Stoned",
-    "Baked",
+    "Ecstatic",
+    "Gleeful",
     "Ripped",
     "Joyful",
     "Happy",
@@ -91,10 +87,10 @@ static void render_callback(Canvas* canvas, void* ctx) {
     uint16_t tmpLvl = 0;
     if(stats->level > 10) tmpLvl = 1;
     if(stats->level > 15) tmpLvl = 2;
-    if(stats->level > 18) tmpLvl = 3;
-    if(stats->level > 21) tmpLvl = 4;
-    if(stats->level > 24) tmpLvl = 5;
-    if(stats->level > 27) tmpLvl = 6;
+    //if(stats->level > 18) tmpLvl = 3;
+    //if(stats->level > 21) tmpLvl = 4;
+    //if(stats->level > 24) tmpLvl = 5;
+    //if(stats->level > 27) tmpLvl = 6;
     canvas_draw_icon(canvas, 11, 2, portraits[mood][tmpLvl]);
 
     const char* my_name = furi_hal_version_get_name_ptr();
