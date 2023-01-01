@@ -1,42 +1,6 @@
 
-<a href='https://www.patreon.com/RogueMaster/membership'><img src="patreon.png" width="40%"></a>
-
-## What Is Not In The Firmware? [SD CARD EXTRA FILES AND OTHER RESEARCH SOURCES](https://github.com/RogueMaster/awesome-flipperzero-withModules)
-
-# RogueMaster Flipper Zero FW [Support Us!](https://www.patreon.com/RogueMaster/membership)
-## Thank you to all the supporters!
-
-<table><tr><th><div align="left">
-This firmware is a fork of Unleashed and the main Flipper Devices FW! We are NOT paywalled. I will try to keep active development and updates from both in this build along with any other projects that can be found to be useful to the community. I try to keep this FW build the most cutting edge with updates from both and updates from nearly all active community projects. See the RM <a href='https://github.com/RogueMaster/flipperzero-firmware-wPlugins#Games'>Games</a> and <a href='https://github.com/RogueMaster/flipperzero-firmware-wPlugins#Plugins'>Plugins</a> for a list of most of those projects.
-<br><a href='https://discord.gg/gF2bBUzAFe' target="_blank">Discord</a> - <a href='https://github.com/RogueMaster/flipperzero-firmware-wPlugins#Build'>Build</a> - <a href='https://github.com/RogueMaster/flipperzero-firmware-wPlugins#install'>Install Instructions</a> - <a href='https://github.com/RogueMaster/flipperzero-firmware-wPlugins#howto'>More Links And How To</a> - <a href='https://github.com/RogueMaster/flipperzero-firmware-wPlugins#all'>All Changes from OFW</a> - <a href='https://github.com/RogueMaster/flipperzero-firmware-wPlugins#support'>Support RM Custom Firmware</a> - <a href='https://www.patreon.com/RogueMaster' target="_blank">Patreon</a>
-</div></th><th style='width:50%;'>
-This software is for experimental purposes only and is not meant for any illegal activity/purposes. We do not condone illegal activity and strongly encourage keeping transmissions to legal/valid uses allowed by law.
-</th></tr></table>
-
-<a name="support"></a>
-
-- Keep Your Flipper Up To Date With [PATREON membership](https://www.patreon.com/RogueMaster)
-- [PATREON for compiled releases](https://www.patreon.com/RogueMaster) for nearly ALL updates. Patreon Releases sometimes multiple times a day. GitHub releases will occur weekly or with OFW version updates.
-- [Contact me on Patreon to RENAME your Flipper](https://www.patreon.com/RogueMaster/membership) I can do custom names and custom animation sets with your custom build provided for every Patreon release.
-- [:fire: PATREON ANIMATION BUILDS AVAILABLE](https://www.patreon.com/RogueMaster/membership): ALL, DBZ, MARIO, ONE PIECE, RM 18PLUS, RM SELECT, RM SELECT + 18PLUS, RM MINIMAL (default on GitHub), SAO, SCIENCE AND STOCK with all assets updated to look like stock.
-- Donations: BTC: `3MPQbKmGRCstg4FjnadfHa3woCT94JkR2a`
-- Donations: ETH: `roguemaster.eth` or `0xC32Ea488DBeCF95992A5C81BD411e56Bd418BC5f`
-
-<a name="latest">
-
-## Latest Updates - [PATREON: Latest Release RM0101-0323-0.74.3-3984192](https://www.patreon.com/posts/76626421)
-
-- Last Synced/Checked [Unleashed], changes in [changelog](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/blob/420/CHANGELOG.md) and in [commits](https://github.com/DarkFlippers/unleashed-firmware/commits/dev): `2022-12-31 13:28 EST`
-- Last Synced/Checked [OFW], changes in [commits](https://github.com/flipperdevices/flipperzero-firmware/commits/dev): `2022-12-31 13:28 EST`
-- Small fix for MRTD doc saving thanks to Bernie
-- Updated: [Solitaire (By teeebor)](https://github.com/teeebor/flipper_games)
-- Assets: Includes SubGHz files: more CVS buttons and Lowes buttons
-- Assets: Includes SubGHz Playlist config update and SubGHz Remote config update for CVS, Lowes & Walgreens
-- Updated: [Temp Sensors Reader (By quen0n)](https://github.com/quen0n/Unitemp-Flipper-Zero-Plugin) `Req: BMP180/DHT11/DHT22(AM2302)/AM2301/AM2320/HTU2XD`
-- Added: [Rubik's Cube Scrambler (By RaZeSloth)](https://github.com/RaZeSloth/flipperzero-rubiks-cube-scrambler)
-- [New Patreon Build: RM All and the new SCIENCE build now have 10 animations with 9 featuring scientists, inspired by one of our animation coordinators (RM Extreme) on Patreon!](https://www.patreon.com/posts/76626421)
-- Per PATREON voters, Added SubGHz Playlist to the Main Menu.
-- [New Patreon Build: Mario and Friends!](https://www.patreon.com/posts/76649835)
+# HI HERE IS FIRMWARE
+## AAAAAAAAAA
 
 <a name="release">
 
